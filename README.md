@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 ![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
+[Website](https://deanoverton.com)
+
+- 🏫 Currently studying chemistry, physics, extension 1 math, information processes and technology, advanced math and english at Woonona High School...
+- 🔭 I’m currently working on an isometric cube planet space game.
+- 📫 Reach me at [contact+removethisifyourahuman@deanoverton.com](mailto:contact+removethisifyourahuman@deanoverton.com)
 
 <!--
-**Dean-Overton/Dean-Overton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
