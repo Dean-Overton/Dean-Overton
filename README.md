@@ -1,9 +1,13 @@
 ### Hi there 👋 ![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
 [Website](https://deanoverton.com)
 
-- 🏫 Currently studying chemistry, physics, extension 1 math, information processes and technology, advanced math and english at Woonona High School...
-- 🔭 I’m currently working on an isometric cube planet space game.
+#### About
+- 🏫 Currently in grade 12 (studying chemistry, physics, extension 1 math, information processes and technology)
+- 🔭 Working on an isometric cube planet space game.
 - 📫 Reach me at [contact+removethisifyourahuman@deanoverton.com](mailto:contact+removethisifyourahuman@deanoverton.com)
+
+#### My Achievements
+- Top 10 [Trailblazer (2022)](https://artofsmart.com.au/trailblazer-awards/top-50-2022#tablepress-594): recognition for contribution to NFT space where I have developed various python [tools](https://github.com/Dean-Overton/solana-discord-nft-tools).
 
 <!--
 
