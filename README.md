@@ -13,10 +13,10 @@
 
 ### Portfolio
 
-#### Pocket Planet
+#### [Pocket Planet](https://github.com/Dean-Overton/cube-planet)
 This isometric planet game is my latest WIP.
 
-#### SOLANA CRYPTOCURRENCY DISCORD TOOLS
+#### [Solana Cryptocurrency Discord Tools](https://github.com/Dean-Overton/solana-discord-nft-tools)
 These python written tools have helped many users with their cryptocurrency NFT communities. 
 Features including: sending tokens to a a large group of recipients on the SOLANA blockchain, filtering the recipients addresses from a discord channel.
 
