@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a hyper-casual game.
 
 #### Contact
-- 📫 Reach me at [contact+removethisifyourahuman@deanoverton.com](mailto:contact+removethisifyourahuman@deanoverton.com)
+- 📫 Reach me at [deanoverton13+removethisifyourahuman@outlook.com](mailto:deanoverton13+removethis@outlook.com)
 
 #### My Achievements
 - Top 10 [Trailblazer (2022)](https://artofsmart.com.au/trailblazer-awards/top-50-2022#tablepress-594): recognition for contribution to NFT space where I have developed various python [tools](https://github.com/Dean-Overton/solana-discord-nft-tools).
