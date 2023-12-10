@@ -2,11 +2,11 @@
 [Website](https://deanoverton.com)
 
 ### About
-- 🏫 Just graduated high school, studying chemistry, physics, ext 1 maths, information processes and technology; being top 16 percent of the state.
-- 🔭 I’m currently working on secret stuff.
+- 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Major in Mathematics (UOW)
+- 🔭 Currently, I'm working on a University Mars Rover startup project.
 
 #### Contact
-- 📫 Reach me at [deanoverton13+removethisifyourahuman@outlook.com](mailto:deanoverton13+removethis@outlook.com)
+- 📫 Reach me at the [contact form](https://deanoverton.com/#contact) on my website.
 
 #### My Achievements
 - Top 10 [Trailblazer (2022)](https://artofsmart.com.au/trailblazer-awards/top-50-2022#tablepress-594): recognition for contribution to NFT space where I have developed various python [tools](https://github.com/Dean-Overton/solana-discord-nft-tools).
