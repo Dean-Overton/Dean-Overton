@@ -3,7 +3,7 @@
 
 ### About
 - 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Major in Mathematics (UOW)
-- 🔭 Currently, I'm working on a University Mars Rover startup project.
+- 🔭 Currently, I'm studying Cracking the Coding Interview
 
 #### Contact
 - 📫 Reach me at the [contact form](https://deanoverton.com/#contact) on my website.
