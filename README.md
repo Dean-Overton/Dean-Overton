@@ -5,9 +5,6 @@
 - 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Major in Mathematics (UOW)
 - 🔭 Currently, I'm studying Cracking the Coding Interview
 
-#### Contact
-- 📫 Reach me at the [contact form](https://deanoverton.com/#contact) on my website.
-
 #### My Achievements
 - Top 10 [Trailblazer (2022)](https://artofsmart.com.au/trailblazer-awards/top-50-2022#tablepress-594): recognition for contribution to NFT space where I have developed various python [tools](https://github.com/Dean-Overton/solana-discord-nft-tools).
 
