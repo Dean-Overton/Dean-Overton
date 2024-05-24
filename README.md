@@ -18,6 +18,9 @@
 ### [Sudoku Solver from Photo](https://github.com/Dean-Overton/sudoku-solver), 2024
 This python script extracts any sudoku from a photo and finds the solution.
 
+### [Flight Booking and Management Frontend](https://github.com/Dean-Overton/flight-booking-prototype), 2024
+This ReactTS project includes a prototyped booking and management system for a fake airline.
+
 #### [Pocket Planet](https://github.com/Dean-Overton/cube-planet), 2022
 This isometric planet game is a pretty cool concept.
 
