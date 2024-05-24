@@ -15,6 +15,9 @@
 
 ### Portfolio
 
+### [Sudoku Solver from Photo](https://github.com/Dean-Overton/sudoku-solver), 2024
+This python script extracts any sudoku from a photo and finds the solution.
+
 #### [Pocket Planet](https://github.com/Dean-Overton/cube-planet), 2022
 This isometric planet game is a pretty cool concept.
 
