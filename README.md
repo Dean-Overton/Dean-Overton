@@ -29,7 +29,7 @@ These python written tools have helped many users with their cryptocurrency NFT 
 Features including: sending tokens to a a large group of recipients on the SOLANA blockchain, filtering the recipients addresses from a discord channel.
 
 #### Arbitraria, 2019
-[Currently Broken WebGL Test Play ;( ](https://simmer.io/@deanoverton/arbitraria)
+This exploration/adventure game started my journey in algorithms and data structures as I learnt to optimise this real-time random world generation concept. [Early stage prototype (simmer.io)](https://simmer.io/@deanoverton/arbitraria)
 
 <!--
 
