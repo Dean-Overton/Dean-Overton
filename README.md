@@ -1,6 +1,8 @@
 ### Hi there 👋 ![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
 ![Static Badge](https://img.shields.io/badge/Visit-Portfolio-blue?link=https%3A%2F%2Fdeanoverton.com%2F)
 
+[![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About
 - 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Major in Mathematics (UOW)
 - 🔭 Currently, I'm studying Cracking the Coding Interview
