@@ -1,5 +1,5 @@
 ### Hi there 👋 ![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
-[Website](https://deanoverton.com)
+![Static Badge](https://img.shields.io/badge/Visit-Portfolio-blue?link=https%3A%2F%2Fdeanoverton.com%2F)
 
 ### About
 - 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Major in Mathematics (UOW)
