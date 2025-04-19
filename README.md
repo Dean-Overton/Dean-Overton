@@ -4,7 +4,7 @@
 [![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About
-- 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Major in Mathematics (UOW)
+- 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Minor in Mathematics (UOW)
 - 🔭 Currently, I'm studying Cracking the Coding Interview
 
 #### My Achievements
