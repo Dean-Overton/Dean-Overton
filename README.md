@@ -1,8 +1,23 @@
-![GithubBanner](https://github.com/user-attachments/assets/b797d0dd-eba9-44e8-8215-1c570911f001)
-![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS) 
-![Static Badge](https://img.shields.io/badge/Visit-Portfolio-blue?link=https%3A%2F%2Fdeanoverton.com%2F)
+[![GithubBanner](https://github.com/user-attachments/assets/b797d0dd-eba9-44e8-8215-1c570911f001)](#)
 
-[![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Static Badge](https://img.shields.io/badge/NestJs-e0224e?style=for-the-badge&logo=nestjs)](#)
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](#)
+
+[![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)](#)
+[![Static Badge](https://img.shields.io/badge/Visit-Portfolio-blue?link=https%3A%2F%2Fdeanoverton.com%2F)](https://deanoverton.com)
+
+[![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](#)
 
 ### About
 - 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Minor in Mathematics (UOW)
