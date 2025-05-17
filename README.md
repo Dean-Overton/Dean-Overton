@@ -1,4 +1,5 @@
-### Hi there 👋 ![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
+![GithubBanner](https://github.com/user-attachments/assets/b797d0dd-eba9-44e8-8215-1c570911f001)
+![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS) 
 ![Static Badge](https://img.shields.io/badge/Visit-Portfolio-blue?link=https%3A%2F%2Fdeanoverton.com%2F)
 
 [![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
