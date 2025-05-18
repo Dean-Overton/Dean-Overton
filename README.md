@@ -22,7 +22,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dean-Overton/Dean-Overton/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dean-Overton/Dean-Overton/output/pacman-contribution-graph.svg">
 </picture>
-[![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)](#)
 
 [![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](#)
 
