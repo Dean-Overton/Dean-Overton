@@ -1,5 +1,5 @@
 [![GithubBanner](https://github.com/user-attachments/assets/b797d0dd-eba9-44e8-8215-1c570911f001)](#)
-
+### Favourite Tech
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
@@ -7,21 +7,19 @@
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![Static Badge](https://img.shields.io/badge/NestJs-e0224e?style=for-the-badge&logo=nestjs)](#)
-
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](#)
 
-[![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=plastic&label=PROFILE+VIEWS)](#)
-[![Static Badge](https://img.shields.io/badge/Visit-Portfolio-blue?link=https%3A%2F%2Fdeanoverton.com%2F)](https://deanoverton.com)
+### Other Stats
+[![View Counter](https://komarev.com/ghpvc/?username=Dean-Overton&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)](#)
 
 [![Deans GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-overton&show_icons=true&theme=dark)](#)
 
 ### About
-- 🏫 Studying a Bachelor of Computer Science - Major in AI and Big Data, Minor in Mathematics (UOW)
-- 🔭 Currently, I'm studying Cracking the Coding Interview
+- 🏫 Bachelor of Computer Science - Major in AI and Big Data
 
 #### My Achievements
 - Top 10 [Trailblazer (2022)](https://artofsmart.com.au/trailblazer-awards/top-50-2022#tablepress-594): recognition for contribution to NFT space where I have developed various python [tools](https://github.com/Dean-Overton/solana-discord-nft-tools).
