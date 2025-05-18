@@ -29,7 +29,7 @@
 
 ### Projects
 
-#### [<img src="https://github.com/user-attachments/assets/51a194a2-ba88-4048-9ab5-65c2c7f65ce7" width="20" style="vertical-align: middle;">](#)   [  Digiwize, 2025](https://digiwize-webflow.webflow.io/)
+#### [<img src="https://github.com/user-attachments/assets/51a194a2-ba88-4048-9ab5-65c2c7f65ce7" width="20" style="vertical-align: middle;">](#) Digiwize, 2025
 
 Leading my capstone team and a core contributor to developing the cross-repository code and productivity analytics platform, Digiwize.
 
