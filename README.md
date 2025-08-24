@@ -48,20 +48,6 @@ Leading my capstone team and a core contributor to developing the cross-reposito
 
 <hr/>
 
-#### Mail Management System, 2025 Feb - May
-Developed a robust email marketing platform under my internship at Innomente, focusing predominantly on the backend with NestJS, TypeScript, and PostgreSQL for scalable data and API management. This stack, complemented by a React frontend and deployed on AWS, was chosen to ensure the reliability and efficiency essential for handling high-volume marketing campaign operations.
-
-[![NestJS Badge](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)](#)
-[![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)](#)
-[![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](#)
-[![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=&logoColor=white)](#)
-[![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)](#)
-[![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)](#)
-
-<hr/>
-
 #### Stack Sensei, 2024
 
 Engineered front-end dashboard and backend authentication for a Saas web app to create and recommend technologies for a given project based on a prompt.
